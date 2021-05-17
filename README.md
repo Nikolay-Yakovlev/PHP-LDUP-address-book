@@ -1,4 +1,4 @@
-# PHP-LDUP-address-book
+# PHP-LDAP-address-book
 Corp address book from Active Directory using php+ldap.
 One day i deside to help company i work to make an address book, so any user in our domain can find another user without any trouble.
 I use PHP + ldap to get info from AD.
